@@ -1,6 +1,6 @@
 module.exports = {
   reactStrictMode: true,
-  output: 'export',
+  // 移除 output: 'export' - Vercel不需要静态导出
   images: {
     unoptimized: true,
   },
