@@ -1,6 +1,5 @@
 import Head from 'next/head';
 import { useEffect, useState } from 'react';
-import Script from 'next/script';
 
 export default function Home() {
   const [data, setData] = useState(null);
@@ -23,9 +22,21 @@ export default function Home() {
 
   // 加载AdSense广告
   useEffect(() => {
-    if (typeof window !== 'undefined') {
+    // 加载AdSense脚本
+    if (typeof window !== 'undefined' && !document.querySelector('script[src*="adsbygoogle.js"]')) {
+      const script = document.createElement('script');
+      script.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3940256099942544';
+      script.async = true;
+      script.crossOrigin = 'anonymous';
+      document.head.appendChild(script);
+    }
+
+    // 推送广告
+    if (data && typeof window !== 'undefined') {
       try {
-        (window.adsbygoogle = window.adsbygoogle || []).push({});
+        setTimeout(() => {
+          (window.adsbygoogle = window.adsbygoogle || []).push({});
+        }, 100);
       } catch (err) {
         console.log('AdSense error:', err);
       }
@@ -49,14 +60,6 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
-      {/* Google AdSense Script - 使用测试发布商ID */}
-      <Script
-        async
-        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3940256099942544"
-        crossOrigin="anonymous"
-        strategy="afterInteractive"
-      />
 
       <div className="container">
         {/* 头部 */}
