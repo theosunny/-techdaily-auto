@@ -1,0 +1,22 @@
+{
+  "name": "techdaily-auto",
+  "version": "1.0.0",
+  "description": "自动化科技资讯聚合网站 - 每天自动赚钱",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export",
+    "scrape": "python scraper.py",
+    "update": "python scraper.py && npm run build",
+    "claude": "claude"
+  },
+  "dependencies": {
+    "next": "^14.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@anthropic-ai/claude-code": "^2.1.41"
+  }
+}

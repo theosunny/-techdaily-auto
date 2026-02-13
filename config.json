@@ -1,0 +1,51 @@
+{
+  "site": {
+    "title": "TechDaily - 每日科技资讯",
+    "description": "自动聚合全球最新科技新闻、AI动态、编程技术文章",
+    "language": "zh-CN",
+    "domain": "https://your-domain.vercel.app"
+  },
+  "rss_feeds": [
+    {
+      "name": "36氪",
+      "url": "https://36kr.com/feed",
+      "category": "科技新闻"
+    },
+    {
+      "name": "少数派",
+      "url": "https://sspai.com/feed",
+      "category": "科技评测"
+    },
+    {
+      "name": "InfoQ",
+      "url": "https://www.infoq.cn/feed",
+      "category": "编程技术"
+    },
+    {
+      "name": "机器之心",
+      "url": "https://www.jiqizhixin.com/rss",
+      "category": "AI资讯"
+    },
+    {
+      "name": "Hacker News",
+      "url": "https://hnrss.org/frontpage",
+      "category": "Hacker News"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "category": "国际科技"
+    },
+    {
+      "name": "GitHub Trending",
+      "url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+      "category": "开源项目"
+    }
+  ],
+  "ads": {
+    "google_adsense_id": "YOUR_ADSENSE_ID",
+    "enabled": true
+  },
+  "update_frequency": "every 2 hours",
+  "max_articles_per_feed": 20
+}
