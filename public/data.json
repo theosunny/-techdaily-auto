@@ -1,1026 +1,1026 @@
 {
-  "last_updated": "2026-02-14T03:53:39.768031",
+  "last_updated": "2026-02-14T05:05:41.707902",
   "total_articles": 102,
   "articles": [
+    {
+      "id": "76c78de82eca",
+      "title": "Fintech lending giant Figure confirms data breach",
+      "link": "https://techcrunch.com/2026/02/13/fintech-lending-giant-figure-confirms-data-breach/",
+      "description": "The company said hackers downloaded “a limited number of files” after breaking into an employee’s account. The hacking group ShinyHunters took responsibility for the breach.",
+      "published": "Fri, 13 Feb 2026 21:02:46 +0000",
+      "source": "TechCrunch",
+      "category": "国际科技",
+      "timestamp": 1771016739.508034
+    },
+    {
+      "id": "51e6b7a7c78f",
+      "title": "Why top talent is walking away from OpenAI and xAI",
+      "link": "https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/",
+      "description": "AI companies have been hemorrhaging talent the past few weeks. Half of xAI’s founding team has left the company — some on their own, others through “restructuring” — while OpenAI is facing its own sha...",
+      "published": "Fri, 13 Feb 2026 21:00:00 +0000",
+      "source": "TechCrunch",
+      "category": "国际科技",
+      "timestamp": 1771016739.508034
+    },
+    {
+      "id": "80cb7a990644",
+      "title": "Sex toys maker Tenga says hacker stole customer information",
+      "link": "https://techcrunch.com/2026/02/13/sex-toys-maker-tenga-says-hacker-stole-customer-information/",
+      "description": "The Japanese sex toy maker said a hacker broke into an employee's inbox and stole customer names, email addresses, and correspondence, including order details and customer service inquiries.",
+      "published": "Fri, 13 Feb 2026 20:19:05 +0000",
+      "source": "TechCrunch",
+      "category": "国际科技",
+      "timestamp": 1771016739.508034
+    },
     {
       "id": "86bfc01751d9",
       "title": "OpenAI removes access to sycophancy-prone GPT-4o model",
       "link": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/",
-      "description": "The model is known for its overly sycophantic nature and its role in several lawsuits involving users' unhealthy relationships to the chatbot....",
+      "description": "The model is known for its overly sycophantic nature and its role in several lawsuits involving users' unhealthy relationships to the chatbot.",
       "published": "Fri, 13 Feb 2026 18:10:00 +0000",
       "source": "TechCrunch",
       "category": "国际科技",
-      "timestamp": 1771012417.5887191
+      "timestamp": 1771016739.508034
     },
     {
       "id": "6527b573e236",
       "title": "The SEC closed its investigation into Fisker",
       "link": "https://techcrunch.com/2026/02/13/the-sec-closed-its-investigation-into-fisker/",
-      "description": "The financial regulator revealed in a response to a TechCrunch records request that the probe was closed in September 2025....",
+      "description": "The financial regulator revealed in a response to a TechCrunch records request that the probe was closed in September 2025.",
       "published": "Fri, 13 Feb 2026 17:48:43 +0000",
       "source": "TechCrunch",
       "category": "国际科技",
-      "timestamp": 1771012417.5887191
+      "timestamp": 1771016739.508034
     },
     {
       "id": "1ed649008022",
       "title": "India partners with Alibaba.com for export push despite past China tech bans",
       "link": "https://techcrunch.com/2026/02/13/india-partners-with-alibaba-com-for-export-push-despite-past-china-tech-bans/",
-      "description": "India turns to Alibaba.com's B2B network of 50 million buyers in 200 countries to help businesses scale global exports....",
+      "description": "India turns to Alibaba.com's B2B network of 50 million buyers in 200 countries to help businesses scale global exports.",
       "published": "Fri, 13 Feb 2026 17:32:59 +0000",
       "source": "TechCrunch",
       "category": "国际科技",
-      "timestamp": 1771012417.5887191
+      "timestamp": 1771016739.508034
     },
     {
       "id": "c55ef4576afe",
       "title": "Anthropic’s Super Bowl ads mocking AI with ads helped push Claude’s app into the top 10",
       "link": "https://techcrunch.com/2026/02/13/anthropics-super-bowl-ads-mocking-ai-with-ads-helped-push-claudes-app-into-the-top-10/",
-      "description": "The numbers suggest that Anthropic's Super Bowl commercials, combined with Anthropic's recent release of its new Opus 4.6 model, worked to drive attention to Claude's app and its key differentiator from ChatGPT....",
+      "description": "The numbers suggest that Anthropic's Super Bowl commercials, combined with Anthropic's recent release of its new Opus 4.6 model, worked to drive attention to Claude's app and its key differentiator fr...",
       "published": "Fri, 13 Feb 2026 17:16:27 +0000",
       "source": "TechCrunch",
       "category": "国际科技",
-      "timestamp": 1771012417.5887191
+      "timestamp": 1771016739.508034
     },
     {
       "id": "e839fe07d529",
       "title": "Roku to launch streaming bundles as part of its efforts to continue growing its profitability",
       "link": "https://techcrunch.com/2026/02/13/roku-to-launch-streaming-bundles-as-part-of-its-efforts-to-continue-growing-its-profitability/",
-      "description": "Roku delivered an impressive Q4, posting net income of $80.5 million. The company also outlined plans for streaming bundles....",
+      "description": "Roku delivered an impressive Q4, posting net income of $80.5 million. The company also outlined plans for streaming bundles.",
       "published": "Fri, 13 Feb 2026 16:39:27 +0000",
       "source": "TechCrunch",
       "category": "国际科技",
-      "timestamp": 1771012417.5887191
+      "timestamp": 1771016739.508034
     },
     {
       "id": "d0cec0348955",
       "title": "A Stanford grad student created an algorithm to help his classmates find love; now, Date Drop is the basis of his new startup",
       "link": "https://techcrunch.com/2026/02/13/a-stanford-grad-student-created-an-algorithm-to-help-his-classmates-find-love-now-date-drop-is-the-basis-of-his-new-startup/",
-      "description": "\"Our matches convert to actual dates at about 10x the rate of Tinder,\" Weng told TechCrunch....",
+      "description": "\"Our matches convert to actual dates at about 10x the rate of Tinder,\" Weng told TechCrunch.",
       "published": "Fri, 13 Feb 2026 16:24:53 +0000",
       "source": "TechCrunch",
       "category": "国际科技",
-      "timestamp": 1771012417.5887191
+      "timestamp": 1771016739.508034
     },
     {
       "id": "be2a0547a9a9",
       "title": "Elon Musk suggests spate of xAI exits have been push, not pull",
       "link": "https://techcrunch.com/2026/02/13/elon-musk-suggests-spate-of-xai-exits-have-been-push-not-pull/",
-      "description": "At least nine engineers, including two co-founders, have announced their exits from xAI in the past week, fueling online speculation and raising questions about stability at Musk’s AI company amid mounting controversy....",
+      "description": "At least nine engineers, including two co-founders, have announced their exits from xAI in the past week, fueling online speculation and raising questions about stability at Musk’s AI company amid mou...",
       "published": "Fri, 13 Feb 2026 16:11:01 +0000",
       "source": "TechCrunch",
       "category": "国际科技",
-      "timestamp": 1771012417.5887191
+      "timestamp": 1771016739.508034
     },
     {
       "id": "ebdb3daa78ca",
       "title": "Dutch phone giant Odido says millions of customers affected by data breach",
       "link": "https://techcrunch.com/2026/02/13/dutch-phone-giant-odido-says-millions-of-customers-affected-by-data-breach/",
-      "description": "The Dutch phone giant Odido is the latest phone and internet company to be hacked in recent months, as governments and financially motivated hackers continue to steal highly confidential information about phone customers....",
+      "description": "The Dutch phone giant Odido is the latest phone and internet company to be hacked in recent months, as governments and financially motivated hackers continue to steal highly confidential information a...",
       "published": "Fri, 13 Feb 2026 15:54:13 +0000",
       "source": "TechCrunch",
       "category": "国际科技",
-      "timestamp": 1771012417.5887191
+      "timestamp": 1771016739.508034
     },
     {
       "id": "a1930b2d4133",
       "title": "Amazon’s Ring cancels partnership with Flock, a network of AI cameras used by ICE, feds, and police",
       "link": "https://techcrunch.com/2026/02/13/amazons-ring-cancels-partnership-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/",
-      "description": "This news comes less than a week after Ring's Super Bowl commercial stoked controversy over the company's capacity for mass surveillance....",
+      "description": "This news comes less than a week after Ring's Super Bowl commercial stoked controversy over the company's capacity for mass surveillance.",
       "published": "Fri, 13 Feb 2026 15:40:15 +0000",
       "source": "TechCrunch",
       "category": "国际科技",
-      "timestamp": 1771012417.5887191
+      "timestamp": 1771016739.508034
     },
     {
       "id": "16949c3e0dc7",
       "title": "Cohere’s $240M year sets stage for IPO",
       "link": "https://techcrunch.com/2026/02/13/coheres-240m-year-sets-stage-for-ipo/",
-      "description": "Cohere surpassed $240 million in annual recurring revenue in 2025, highlighting strong enterprise AI demand as the Canadian startup positions itself for a potential IPO amid intensifying competition from OpenAI and Anthropic....",
+      "description": "Cohere surpassed $240 million in annual recurring revenue in 2025, highlighting strong enterprise AI demand as the Canadian startup positions itself for a potential IPO amid intensifying competition f...",
       "published": "Fri, 13 Feb 2026 15:03:10 +0000",
       "source": "TechCrunch",
       "category": "国际科技",
-      "timestamp": 1771012417.5887191
+      "timestamp": 1771016739.508034
     },
     {
       "id": "bb572b7c5690",
       "title": "Meta plans to add facial recognition to its smart glasses, report claims",
       "link": "https://techcrunch.com/2026/02/13/meta-plans-to-add-facial-recognition-to-its-smart-glasses-report-claims/",
-      "description": "The feature, internally known as “Name Tag,” would allow smart glasses wearers to identify people and get information about them via Meta's AI assistant....",
+      "description": "The feature, internally known as “Name Tag,” would allow smart glasses wearers to identify people and get information about them via Meta's AI assistant.",
       "published": "Fri, 13 Feb 2026 14:58:39 +0000",
       "source": "TechCrunch",
       "category": "国际科技",
-      "timestamp": 1771012417.5887191
+      "timestamp": 1771016739.508034
     },
     {
       "id": "58c870459f84",
       "title": "Score, the dating app for people with good credit, is back",
       "link": "https://techcrunch.com/2026/02/13/score-the-dating-app-for-good-to-excellent-credit-returns-for-everyone-to-use/",
-      "description": "Two years ago, a controversial dating app was launched and quickly shuttered: for people with good-to-excellent credit. Now, the founder is relaunching it, open to anyone....",
+      "description": "Two years ago, a controversial dating app was launched and quickly shuttered: for people with good-to-excellent credit. Now, the founder is relaunching it, open to anyone.",
       "published": "Fri, 13 Feb 2026 14:00:00 +0000",
       "source": "TechCrunch",
       "category": "国际科技",
-      "timestamp": 1771012417.5887191
+      "timestamp": 1771016739.508034
     },
     {
       "id": "4817b870a444",
       "title": "Fusion startup Helion hits blistering temps as it races toward 2028 deadline",
       "link": "https://techcrunch.com/2026/02/13/fusion-startup-helion-hits-blistering-temps-as-it-races-toward-2028-deadline/",
-      "description": "Helion's Polaris device hit 150 million degrees C recently, a milestone that nudges the company toward its commercial power plant that will sell electricity to Microsoft....",
+      "description": "Helion's Polaris device hit 150 million degrees C recently, a milestone that nudges the company toward its commercial power plant that will sell electricity to Microsoft.",
       "published": "Fri, 13 Feb 2026 10:00:00 +0000",
       "source": "TechCrunch",
       "category": "国际科技",
-      "timestamp": 1771012417.5887191
+      "timestamp": 1771016739.508034
     },
     {
       "id": "ad1ec24c42a3",
       "title": "Waymo is asking DoorDash drivers to shut the doors of its self-driving cars",
       "link": "https://techcrunch.com/2026/02/12/waymo-is-asking-doordash-drivers-to-shut-the-doors-of-its-self-driving-cars/",
-      "description": "If a passenger accidentally leaves a Waymo door open, the vehicle can get stuck in place....",
+      "description": "If a passenger accidentally leaves a Waymo door open, the vehicle can get stuck in place.",
       "published": "Fri, 13 Feb 2026 04:41:41 +0000",
       "source": "TechCrunch",
       "category": "国际科技",
-      "timestamp": 1771012417.5887191
+      "timestamp": 1771016739.508034
     },
     {
       "id": "8d3bba89a242",
       "title": "For $1M, you can pay Bryan Johnson (or BryanAI?) to teach you how to live longer",
       "link": "https://techcrunch.com/2026/02/12/for-1-million-you-can-pay-bryan-johnson-or-bryanai-to-teach-you-how-to-live-longer/",
-      "description": "The longevity-obsessed investor Bryan Johnson is charging $1 million to sign up for his \"Immortals\" program....",
+      "description": "The longevity-obsessed investor Bryan Johnson is charging $1 million to sign up for his \"Immortals\" program.",
       "published": "Thu, 12 Feb 2026 23:43:47 +0000",
       "source": "TechCrunch",
       "category": "国际科技",
-      "timestamp": 1771012417.5887191
+      "timestamp": 1771016739.508034
     },
     {
       "id": "ddd8ed6c12bd",
       "title": "Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT",
       "link": "https://techcrunch.com/2026/02/12/amid-disappointing-earnings-pinterest-claims-it-sees-more-searches-than-chatgpt/",
-      "description": "Pinterest's stock tumbles after an earnings miss, with higher-than-expected usage its only bright spot....",
+      "description": "Pinterest's stock tumbles after an earnings miss, with higher-than-expected usage its only bright spot.",
       "published": "Thu, 12 Feb 2026 23:26:56 +0000",
       "source": "TechCrunch",
       "category": "国际科技",
-      "timestamp": 1771012417.5887191
+      "timestamp": 1771016739.508034
     },
     {
       "id": "d79e93738c63",
       "title": "IBM will hire your entry-level talent in the age of AI",
       "link": "https://techcrunch.com/2026/02/12/ibm-will-hire-your-entry-level-talent-in-the-age-of-ai/",
-      "description": "IBM plans to triple its entry-level hiring in the U.S. in 2026, but these jobs will have different tasks than in previous years....",
+      "description": "IBM plans to triple its entry-level hiring in the U.S. in 2026, but these jobs will have different tasks than in previous years.",
       "published": "Thu, 12 Feb 2026 23:23:17 +0000",
       "source": "TechCrunch",
       "category": "国际科技",
-      "timestamp": 1771012417.5887191
-    },
-    {
-      "id": "a322365dd9eb",
-      "title": "Rivian was saved by software in 2025",
-      "link": "https://techcrunch.com/2026/02/12/rivian-was-saved-by-software-in-2025/",
-      "description": "The company's annual revenue was boosted by its technology joint venture with Volkswagen Group....",
-      "published": "Thu, 12 Feb 2026 23:17:32 +0000",
-      "source": "TechCrunch",
-      "category": "国际科技",
-      "timestamp": 1771012417.5887191
-    },
-    {
-      "id": "f8f226c36cdd",
-      "title": "Musk needed a new vision for SpaceX and xAI. He landed on Moonbase Alpha.",
-      "link": "https://techcrunch.com/2026/02/12/musk-needed-a-new-vision-for-spacex-and-xai-he-landed-on-moonbase-alpha/",
-      "description": "\"I really want to see a mass driver on the moon that is shooting AI satellites into deep space.\"...",
-      "published": "Thu, 12 Feb 2026 22:10:55 +0000",
-      "source": "TechCrunch",
-      "category": "国际科技",
-      "timestamp": 1771012417.5887191
-    },
-    {
-      "id": "7272fcaea6a5",
-      "title": "Didero lands $30M to put manufacturing procurement on ‘agentic’ autopilot",
-      "link": "https://techcrunch.com/2026/02/12/didero-lands-30m-to-put-manufacturing-procurement-on-agentic-autopilot/",
-      "description": "Didero functions as an agentic AI layer that sits on top of a company’s existing ERP, acting as a coordinator that reads incoming communications and automatically executes the necessary updates and tasks....",
-      "published": "Thu, 12 Feb 2026 20:31:47 +0000",
-      "source": "TechCrunch",
-      "category": "国际科技",
-      "timestamp": 1771012417.5887191
-    },
-    {
-      "id": "ba3ff6d0909d",
-      "title": "GPT-5.2 derives a new result in theoretical physics",
-      "link": "https://openai.com/index/new-result-theoretical-physics/",
-      "description": "<p>Article URL: <a href=\"https://openai.com/index/new-result-theoretical-physics/\">https://openai.com/index/new-result-theoretical-physics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47006594\">https://news.ycombinator.com/item?id=47006594</a></p>\n<p>Points: 57</p>\n<p># Co...",
-      "published": "Fri, 13 Feb 2026 19:20:12 +0000",
-      "source": "Hacker News",
-      "category": "Hacker News",
-      "timestamp": 1771012416.0991158
-    },
-    {
-      "id": "d16d237a152d",
-      "title": "Why I'm not worried about AI job loss",
-      "link": "https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss",
-      "description": "<p>Article URL: <a href=\"https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss\">https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47006513\">https://news.ycombinator.com/item?id=47006513</a></p>\n<p>Points: 15</p>...",
-      "published": "Fri, 13 Feb 2026 19:13:04 +0000",
-      "source": "Hacker News",
-      "category": "Hacker News",
-      "timestamp": 1771012416.0991158
-    },
-    {
-      "id": "05525a38d302",
-      "title": "Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs",
-      "link": "https://cloudrouter.dev/",
-      "description": "<p>I've been working on CloudRouter, a skill + CLI that gives coding agents like Claude Code and Codex the ability to start cloud VMs and GPUs.<p>When an agent writes code, it usually needs to start a dev server, run tests, open a browser to verify its work. Today that all happens on your local mach...",
-      "published": "Fri, 13 Feb 2026 19:02:17 +0000",
-      "source": "Hacker News",
-      "category": "Hacker News",
-      "timestamp": 1771012416.0991158
+      "timestamp": 1771016739.508034
     },
     {
       "id": "f175cf8bcb8b",
       "title": "Age of Empires: 25 years of pathfinding problems with C++ [video]",
       "link": "https://www.youtube.com/watch?v=lEBQveBCtKY",
-      "description": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=lEBQveBCtKY\">https://www.youtube.com/watch?v=lEBQveBCtKY</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47006316\">https://news.ycombinator.com/item?id=47006316</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>...",
+      "description": "Article URL: https://www.youtube.com/watch?v=lEBQveBCtKY Comments URL: https://news.ycombinator.com/item?id=47006316 Points: 46 # Comments: 6",
       "published": "Fri, 13 Feb 2026 18:56:38 +0000",
       "source": "Hacker News",
       "category": "Hacker News",
-      "timestamp": 1771012416.0991158
+      "timestamp": 1771016738.1769128
+    },
+    {
+      "id": "55912e514c18",
+      "title": "The Sharp PC-2000 Computer Boombox from 1979",
+      "link": "https://stereo2go.com/forums/threads/one-of-the-rarest-the-sharp-pc-2000-computer-boombox-from-1979.10341/",
+      "description": "Article URL: https://stereo2go.com/forums/threads/one-of-the-rarest-the-sharp-pc-2000-computer-boombox-from-1979.10341/ Comments URL: https://news.ycombinator.com/item?id=47006055 Points: 5 # Comments...",
+      "published": "Fri, 13 Feb 2026 18:35:32 +0000",
+      "source": "Hacker News",
+      "category": "Hacker News",
+      "timestamp": 1771016738.1769128
+    },
+    {
+      "id": "719001321eab",
+      "title": "Building a TUI is easy now",
+      "link": "https://hatchet.run/blog/tuis-are-easy-now",
+      "description": "Article URL: https://hatchet.run/blog/tuis-are-easy-now Comments URL: https://news.ycombinator.com/item?id=47005509 Points: 7 # Comments: 1",
+      "published": "Fri, 13 Feb 2026 17:50:54 +0000",
+      "source": "Hacker News",
+      "category": "Hacker News",
+      "timestamp": 1771016738.1769128
     },
     {
       "id": "5f26749c6344",
       "title": "CBP Signs Clearview AI Deal to Use Face Recognition for 'Tactical Targeting'",
       "link": "https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/",
-      "description": "<p>Article URL: <a href=\"https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/\">https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "description": "Article URL: https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/ Comments URL: https://news.ycombinator.com/item?id=47005081 Points: 201 # Comments:...",
       "published": "Fri, 13 Feb 2026 17:13:01 +0000",
       "source": "Hacker News",
       "category": "Hacker News",
-      "timestamp": 1771012416.0991158
+      "timestamp": 1771016738.1769128
     },
     {
       "id": "3e945539240e",
       "title": "I spent two days gigging at RentAHuman and didn't make a single cent",
       "link": "https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/",
-      "description": "<p>Article URL: <a href=\"https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/\">https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47004319\">https:/...",
+      "description": "Article URL: https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/ Comments URL: https://news.ycombinator.com/item?id=47004319 Points: 95 # Comments: 56",
       "published": "Fri, 13 Feb 2026 16:11:08 +0000",
       "source": "Hacker News",
       "category": "Hacker News",
-      "timestamp": 1771012416.0991158
+      "timestamp": 1771016738.1769128
     },
     {
       "id": "62e042e6d345",
       "title": "IronClaw: a Rust-based clawd that runs tools in isolated WASM sandboxes",
       "link": "https://github.com/nearai/ironclaw",
-      "description": "<p>Article URL: <a href=\"https://github.com/nearai/ironclaw\">https://github.com/nearai/ironclaw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47004312\">https://news.ycombinator.com/item?id=47004312</a></p>\n<p>Points: 54</p>\n<p># Comments: 24</p>...",
+      "description": "Article URL: https://github.com/nearai/ironclaw Comments URL: https://news.ycombinator.com/item?id=47004312 Points: 99 # Comments: 44",
       "published": "Fri, 13 Feb 2026 16:10:07 +0000",
       "source": "Hacker News",
       "category": "Hacker News",
-      "timestamp": 1771012416.0991158
+      "timestamp": 1771016738.1769128
     },
     {
       "id": "cbc1767083f0",
       "title": "Open Source Is Not About You (2018)",
       "link": "https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9",
-      "description": "<p>Article URL: <a href=\"https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9\">https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47003219\">https://news.ycombinator.com/item?id=47003219</a></p>\n<p>...",
+      "description": "Article URL: https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9 Comments URL: https://news.ycombinator.com/item?id=47003219 Points: 169 # Comments: 125",
       "published": "Fri, 13 Feb 2026 14:36:28 +0000",
       "source": "Hacker News",
       "category": "Hacker News",
-      "timestamp": 1771012416.0991158
+      "timestamp": 1771016738.1769128
     },
     {
       "id": "c69083701b1f",
       "title": "Apple, fix my keyboard before the timer ends or I'm leaving iPhone",
       "link": "https://ios-countdown.win/",
-      "description": "<p>Article URL: <a href=\"https://ios-countdown.win/\">https://ios-countdown.win/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47003064\">https://news.ycombinator.com/item?id=47003064</a></p>\n<p>Points: 820</p>\n<p># Comments: 413</p>...",
+      "description": "Article URL: https://ios-countdown.win/ Comments URL: https://news.ycombinator.com/item?id=47003064 Points: 994 # Comments: 488",
       "published": "Fri, 13 Feb 2026 14:21:01 +0000",
       "source": "Hacker News",
       "category": "Hacker News",
-      "timestamp": 1771012416.0991158
+      "timestamp": 1771016738.1769128
     },
     {
       "id": "d107d85a4dfe",
       "title": "Zed editor switching graphics lib from blade to wgpu",
       "link": "https://github.com/zed-industries/zed/pull/46758",
-      "description": "<p>Article URL: <a href=\"https://github.com/zed-industries/zed/pull/46758\">https://github.com/zed-industries/zed/pull/46758</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47002825\">https://news.ycombinator.com/item?id=47002825</a></p>\n<p>Points: 245</p>\n<p># Comments: 209</p>...",
+      "description": "Article URL: https://github.com/zed-industries/zed/pull/46758 Comments URL: https://news.ycombinator.com/item?id=47002825 Points: 257 # Comments: 227",
       "published": "Fri, 13 Feb 2026 14:03:14 +0000",
       "source": "Hacker News",
       "category": "Hacker News",
-      "timestamp": 1771012416.0991158
-    },
-    {
-      "id": "1846cf5e24a6",
-      "title": "Gauntlet AI (YC S17) train you to master building with AI, give you $200k+ job",
-      "link": "http://qualify.gauntletAI.com",
-      "description": "<p>Article URL: <a href=\"http://qualify.gauntletAI.com\">http://qualify.gauntletAI.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47001968\">https://news.ycombinator.com/item?id=47001968</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>...",
-      "published": "Fri, 13 Feb 2026 12:32:05 +0000",
-      "source": "Hacker News",
-      "category": "Hacker News",
-      "timestamp": 1771012416.0991158
+      "timestamp": 1771016738.1769128
     },
     {
       "id": "b7419b9912be",
       "title": "Monosketch",
       "link": "https://monosketch.io/",
-      "description": "<p>Article URL: <a href=\"https://monosketch.io/\">https://monosketch.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47001871\">https://news.ycombinator.com/item?id=47001871</a></p>\n<p>Points: 545</p>\n<p># Comments: 110</p>...",
+      "description": "Article URL: https://monosketch.io/ Comments URL: https://news.ycombinator.com/item?id=47001871 Points: 599 # Comments: 113",
       "published": "Fri, 13 Feb 2026 12:18:05 +0000",
       "source": "Hacker News",
       "category": "Hacker News",
-      "timestamp": 1771012416.0991158
+      "timestamp": 1771016738.1769128
     },
     {
       "id": "678e081f9a77",
       "title": "GovDash (YC W22) Is Hiring Senior Engineers (Product and Search) in NYC",
       "link": "https://www.workatastartup.com/companies/govdash",
-      "description": "<p>Article URL: <a href=\"https://www.workatastartup.com/companies/govdash\">https://www.workatastartup.com/companies/govdash</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47001756\">https://news.ycombinator.com/item?id=47001756</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>...",
+      "description": "Article URL: https://www.workatastartup.com/companies/govdash Comments URL: https://news.ycombinator.com/item?id=47001756 Points: 0 # Comments: 0",
       "published": "Fri, 13 Feb 2026 12:01:11 +0000",
       "source": "Hacker News",
       "category": "Hacker News",
-      "timestamp": 1771012416.0991158
-    },
-    {
-      "id": "ea262ba7d03d",
-      "title": "CSS-Doodle",
-      "link": "https://css-doodle.com/",
-      "description": "<p>Article URL: <a href=\"https://css-doodle.com/\">https://css-doodle.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47000164\">https://news.ycombinator.com/item?id=47000164</a></p>\n<p>Points: 104</p>\n<p># Comments: 11</p>...",
-      "published": "Fri, 13 Feb 2026 08:02:23 +0000",
-      "source": "Hacker News",
-      "category": "Hacker News",
-      "timestamp": 1771012416.0991158
+      "timestamp": 1771016738.1769128
     },
     {
       "id": "a362eefca818",
       "title": "MinIO repository is no longer maintained",
       "link": "https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
-      "description": "<p>Article URL: <a href=\"https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f\">https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47000041\">https://news.ycombinator.com/item?i...",
+      "description": "Article URL: https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f Comments URL: https://news.ycombinator.com/item?id=47000041 Points: 428 # Comments: 305",
       "published": "Fri, 13 Feb 2026 07:46:03 +0000",
       "source": "Hacker News",
       "category": "Hacker News",
-      "timestamp": 1771012416.0991158
+      "timestamp": 1771016738.1769128
     },
     {
       "id": "ca11fa09c6f6",
       "title": "Asimov (YC W26) Is Hiring",
       "link": "https://news.ycombinator.com/item?id=46999753",
-      "description": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46999753\">https://news.ycombinator.com/item?id=46999753</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>...",
+      "description": "Comments URL: https://news.ycombinator.com/item?id=46999753 Points: 0 # Comments: 0",
       "published": "Fri, 13 Feb 2026 07:00:41 +0000",
       "source": "Hacker News",
       "category": "Hacker News",
-      "timestamp": 1771012416.0991158
+      "timestamp": 1771016738.1769128
     },
     {
       "id": "e4e07fb9902c",
       "title": "MMAcevedo aka Lena by qntm",
       "link": "https://qntm.org/mmacevedo",
-      "description": "<p>Article URL: <a href=\"https://qntm.org/mmacevedo\">https://qntm.org/mmacevedo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46999224\">https://news.ycombinator.com/item?id=46999224</a></p>\n<p>Points: 262</p>\n<p># Comments: 145</p>...",
+      "description": "Article URL: https://qntm.org/mmacevedo Comments URL: https://news.ycombinator.com/item?id=46999224 Points: 280 # Comments: 149",
       "published": "Fri, 13 Feb 2026 05:24:40 +0000",
       "source": "Hacker News",
       "category": "Hacker News",
-      "timestamp": 1771012416.0991158
-    },
-    {
-      "id": "e9129492680c",
-      "title": "AWS Adds support for nested virtualization",
-      "link": "https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e",
-      "description": "<p>Article URL: <a href=\"https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e\">https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46997133\">https://news.ycombinato...",
-      "published": "Fri, 13 Feb 2026 00:07:57 +0000",
-      "source": "Hacker News",
-      "category": "Hacker News",
-      "timestamp": 1771012416.0991158
+      "timestamp": 1771016738.1769128
     },
     {
       "id": "00f75cc6040b",
       "title": "Resizing windows on macOS Tahoe – the saga continues",
       "link": "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/",
-      "description": "<p>Article URL: <a href=\"https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/\">https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46997008\">https://news.ycombi...",
+      "description": "Article URL: https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/ Comments URL: https://news.ycombinator.com/item?id=46997008 Points: 809 # Comments: 440",
       "published": "Thu, 12 Feb 2026 23:52:24 +0000",
       "source": "Hacker News",
       "category": "Hacker News",
-      "timestamp": 1771012416.0991158
+      "timestamp": 1771016738.1769128
     },
     {
       "id": "678da9d180a2",
       "title": "Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla | Ghostscript)",
       "link": "https://news.ycombinator.com/item?id=46996490",
-      "description": "<p>It's with much sadness that we announce the passing of our friend and colleague Ralph Giles, or rillian as he was known on IRC.<p>Ralph began contributing to Xiph.org in 2000 and became a core Ghostscript developer in 2001[1]. Ralph made many contributions to the royalty-free media ecosystem, whe...",
+      "description": "It's with much sadness that we announce the passing of our friend and colleague Ralph Giles, or rillian as he was known on IRC.Ralph began contributing to Xiph.org in 2000 and became a core Ghostscrip...",
       "published": "Thu, 12 Feb 2026 22:58:58 +0000",
       "source": "Hacker News",
       "category": "Hacker News",
-      "timestamp": 1771012416.0991158
+      "timestamp": 1771016738.1769128
+    },
+    {
+      "id": "d93342809b4d",
+      "title": "Show HN: Moltis – AI assistant with memory, tools, and self-extending skills",
+      "link": "https://www.moltis.org",
+      "description": "Hey HN. I'm Fabien, principal engineer, 25 years shipping production systems (Ruby, Swift, now Rust). I built Moltis because I wanted an AI assistant I could run myself, trust end to end, and make ext...",
+      "published": "Thu, 12 Feb 2026 19:15:21 +0000",
+      "source": "Hacker News",
+      "category": "Hacker News",
+      "timestamp": 1771016738.1769128
+    },
+    {
+      "id": "642051e96e8b",
+      "title": "GPT‑5.3‑Codex‑Spark",
+      "link": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
+      "description": "Article URL: https://openai.com/index/introducing-gpt-5-3-codex-spark/ Comments URL: https://news.ycombinator.com/item?id=46992553 Points: 864 # Comments: 370",
+      "published": "Thu, 12 Feb 2026 18:06:09 +0000",
+      "source": "Hacker News",
+      "category": "Hacker News",
+      "timestamp": 1771016738.1769128
+    },
+    {
+      "id": "ba3ff6d0909d",
+      "title": "GPT-5.2 derives a new result in theoretical physics",
+      "link": "https://openai.com/index/new-result-theoretical-physics/",
+      "description": "Article URL: https://openai.com/index/new-result-theoretical-physics/ Comments URL: https://news.ycombinator.com/item?id=47006594 Points: 184 # Comments: 121",
+      "published": "Fri, 13 Feb 2026 19:20:12 +0000",
+      "source": "Hacker News",
+      "category": "Hacker News",
+      "timestamp": 1771016738.1761243
+    },
+    {
+      "id": "05525a38d302",
+      "title": "Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs",
+      "link": "https://cloudrouter.dev/",
+      "description": "I've been working on CloudRouter, a skill + CLI that gives coding agents like Claude Code and Codex the ability to start cloud VMs and GPUs.When an agent writes code, it usually needs to start a dev s...",
+      "published": "Fri, 13 Feb 2026 19:02:17 +0000",
+      "source": "Hacker News",
+      "category": "Hacker News",
+      "timestamp": 1771016738.1761243
     },
     {
       "id": "c33f4a08bdd5",
       "title": "全球首个AI原生社交平台「Teamily AI」硅谷亮相，开启「人机共生」社交新元年",
       "link": "https://www.jiqizhixin.com/articles/2026-02-13-11",
-      "description": "...",
+      "description": "",
       "published": "Fri, 13 Feb 2026 17:23:01 +0800",
       "source": "机器之心",
       "category": "AI资讯",
-      "timestamp": 1771012413.7116556
+      "timestamp": 1771016735.7279518
     },
     {
       "id": "53289033ae96",
       "title": "ICLR 2026 | 异常需要定义！中传团队提出开放世界视频异常检测新范式",
       "link": "https://www.jiqizhixin.com/articles/2026-02-13-10",
-      "description": "...",
+      "description": "",
       "published": "Fri, 13 Feb 2026 17:10:31 +0800",
       "source": "机器之心",
       "category": "AI资讯",
-      "timestamp": 1771012413.7116556
+      "timestamp": 1771016735.7279518
     },
     {
       "id": "2dd1eb3536bd",
       "title": "SSI-Bench：首个「约束流形」空间智能基准，把大模型拉回真实3D结构世界",
       "link": "https://www.jiqizhixin.com/articles/2026-02-13-9",
-      "description": "...",
+      "description": "",
       "published": "Fri, 13 Feb 2026 17:02:18 +0800",
       "source": "机器之心",
       "category": "AI资讯",
-      "timestamp": 1771012413.7116556
+      "timestamp": 1771016735.7279518
     },
     {
       "id": "34be6a74f0fe",
       "title": "GLM-5封神，智谱市值五天翻倍，中国AI火力全开了",
       "link": "https://www.jiqizhixin.com/articles/2026-02-13-8",
-      "description": "...",
+      "description": "",
       "published": "Fri, 13 Feb 2026 16:51:15 +0800",
       "source": "机器之心",
       "category": "AI资讯",
-      "timestamp": 1771012413.7116556
+      "timestamp": 1771016735.7279518
     },
     {
       "id": "7fdc6128dbd5",
       "title": "视觉强≠能干活！清北普林斯顿等开源WorldArena，世界模型评测被颠覆",
       "link": "https://www.jiqizhixin.com/articles/2026-02-13-7",
-      "description": "...",
+      "description": "",
       "published": "Fri, 13 Feb 2026 16:36:18 +0800",
       "source": "机器之心",
       "category": "AI资讯",
-      "timestamp": 1771012413.7116556
+      "timestamp": 1771016735.7279518
     },
     {
       "id": "0885f51a407d",
       "title": "开源多模态推理「破壁」时刻：MMFineReason助力4B逆袭30B",
       "link": "https://www.jiqizhixin.com/articles/2026-02-13-6",
-      "description": "...",
+      "description": "",
       "published": "Fri, 13 Feb 2026 16:20:03 +0800",
       "source": "机器之心",
       "category": "AI资讯",
-      "timestamp": 1771012413.7116556
+      "timestamp": 1771016735.7279518
     },
     {
       "id": "9fd834dd4c02",
       "title": "1美元时薪？这才是打工人的「梦中情模」",
       "link": "https://www.jiqizhixin.com/articles/2026-02-13-5",
-      "description": "...",
+      "description": "",
       "published": "Fri, 13 Feb 2026 16:11:46 +0800",
       "source": "机器之心",
       "category": "AI资讯",
-      "timestamp": 1771012413.7116556
+      "timestamp": 1771016735.7279518
     },
     {
       "id": "28a6a707f098",
       "title": "CVPR 2026 Workshop征稿｜从感知到推理，ViSCALE 2.0 邀你重塑计算机视觉的 System 2",
       "link": "https://www.jiqizhixin.com/articles/2026-02-13-3",
-      "description": "...",
+      "description": "",
       "published": "Fri, 13 Feb 2026 16:00:41 +0800",
       "source": "机器之心",
       "category": "AI资讯",
-      "timestamp": 1771012413.7116556
+      "timestamp": 1771016735.7279518
     },
     {
       "id": "75dc677089e1",
       "title": "刚刚Gemini上新模型，全球只有7人比它会编程，谷歌姚顺宇参与",
       "link": "https://www.jiqizhixin.com/articles/2026-02-13-2",
-      "description": "...",
+      "description": "",
       "published": "Fri, 13 Feb 2026 15:56:34 +0800",
       "source": "机器之心",
       "category": "AI资讯",
-      "timestamp": 1771012413.7116556
+      "timestamp": 1771016735.7279518
     },
     {
       "id": "0468181cf9f6",
       "title": "我们离Coding领域的「AGI时刻」还有多远？字节跳动Seed发布NL2Repo-Bench仓库级长程代码生成基准",
       "link": "https://www.jiqizhixin.com/articles/2026-02-13",
-      "description": "...",
+      "description": "",
       "published": "Fri, 13 Feb 2026 15:48:19 +0800",
       "source": "机器之心",
       "category": "AI资讯",
-      "timestamp": 1771012413.7116556
+      "timestamp": 1771016735.7279518
     },
     {
       "id": "b021c7a076f7",
       "title": "上智院等提出首个邻接感知细胞实例分割框架Disco，高密度场景PQ提升7.08%",
       "link": "https://www.jiqizhixin.com/articles/2026-02-13-4",
-      "description": "...",
+      "description": "",
       "published": "Fri, 13 Feb 2026 14:16:00 +0800",
       "source": "机器之心",
       "category": "AI资讯",
-      "timestamp": 1771012413.7116556
+      "timestamp": 1771016735.7279518
     },
     {
       "id": "82ecbe1810d0",
       "title": "具身智能的「GPT时刻」？高德连发两个全面SOTA的ABot具身基座模型",
       "link": "https://www.jiqizhixin.com/articles/2026-02-12-11",
-      "description": "...",
+      "description": "",
       "published": "Thu, 12 Feb 2026 20:28:45 +0800",
       "source": "机器之心",
       "category": "AI资讯",
-      "timestamp": 1771012413.7116556
+      "timestamp": 1771016735.7279518
     },
     {
       "id": "e1e8cc9f565f",
       "title": "Cloudflare推出Moltworker，将自托管AI智能体带到边缘环境中",
       "link": "https://www.infoq.cn/article/PRrDv1gQQ2JhuOp1xI9b?utm_source=rss&utm_medium=article",
-      "description": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/PRrDv1gQQ2JhuOp1xI9b?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>...",
+      "description": "点击查看原文>",
       "published": "Fri, 13 Feb 2026 18:00:00 GMT",
       "source": "InfoQ",
       "category": "编程技术",
-      "timestamp": 1771012412.356552
+      "timestamp": 1771016734.3096578
     },
     {
       "id": "40ea3afeb5f6",
       "title": "一文读懂 Snowflake：7 个 AI 与语义层的关键策略要点 ｜ 技术实践",
       "link": "https://www.infoq.cn/article/aveYPAdOFvSH1CdHe0Py?utm_source=rss&utm_medium=article",
-      "description": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/aveYPAdOFvSH1CdHe0Py?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>...",
+      "description": "点击查看原文>",
       "published": "Fri, 13 Feb 2026 16:58:05 GMT",
       "source": "InfoQ",
       "category": "编程技术",
-      "timestamp": 1771012412.356552
+      "timestamp": 1771016734.3096578
     },
     {
       "id": "ef13772b315a",
       "title": "昨夜，OpenAI 祭出首个实时编码模型，没用英伟达芯片！谷歌重磅更新 Deep Think，姚顺宇参与",
       "link": "https://www.infoq.cn/article/re3CXNqi9tyPH4lIOohq?utm_source=rss&utm_medium=article",
-      "description": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/re3CXNqi9tyPH4lIOohq?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>...",
+      "description": "点击查看原文>",
       "published": "Fri, 13 Feb 2026 16:01:34 GMT",
       "source": "InfoQ",
       "category": "编程技术",
-      "timestamp": 1771012412.356552
+      "timestamp": 1771016734.3096578
     },
     {
       "id": "7b4ed55b7468",
       "title": "Next Moca 开源智能体定义语言 ADL",
       "link": "https://www.infoq.cn/article/4KDHTtLauzMq0apWmDLr?utm_source=rss&utm_medium=article",
-      "description": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/4KDHTtLauzMq0apWmDLr?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>...",
+      "description": "点击查看原文>",
       "published": "Fri, 13 Feb 2026 16:00:00 GMT",
       "source": "InfoQ",
       "category": "编程技术",
-      "timestamp": 1771012412.356552
+      "timestamp": 1771016734.3096578
     },
     {
       "id": "441bb35f44f0",
       "title": "面向 AI Agents 的高性能数据基座：架构和工程实践",
       "link": "https://www.infoq.cn/article/2B1adWKlxpisOtxhOSfj?utm_source=rss&utm_medium=article",
-      "description": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/2B1adWKlxpisOtxhOSfj?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>...",
+      "description": "点击查看原文>",
       "published": "Fri, 13 Feb 2026 14:28:09 GMT",
       "source": "InfoQ",
       "category": "编程技术",
-      "timestamp": 1771012412.356552
+      "timestamp": 1771016734.3096578
     },
     {
       "id": "2052d44cf3f2",
       "title": "Vibe Coding 在代码生成与协作中的实践与思考",
       "link": "https://www.infoq.cn/article/QtQVbAc62O1ib1V2WftO?utm_source=rss&utm_medium=article",
-      "description": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/QtQVbAc62O1ib1V2WftO?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>...",
+      "description": "点击查看原文>",
       "published": "Fri, 13 Feb 2026 14:22:07 GMT",
       "source": "InfoQ",
       "category": "编程技术",
-      "timestamp": 1771012412.356552
+      "timestamp": 1771016734.3096578
     },
     {
       "id": "b5430b4077d9",
       "title": "Xcode 26.3 扩展支持编程智能体，可接入 Claude Agent、Codex 等",
       "link": "https://www.infoq.cn/article/39BuXj6WpGFqPERk4X9x?utm_source=rss&utm_medium=article",
-      "description": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/39BuXj6WpGFqPERk4X9x?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>...",
+      "description": "点击查看原文>",
       "published": "Fri, 13 Feb 2026 12:00:00 GMT",
       "source": "InfoQ",
       "category": "编程技术",
-      "timestamp": 1771012412.356552
+      "timestamp": 1771016734.3096578
     },
     {
       "id": "da772846a6ad",
       "title": "一线实践视角：在资源受限的环境中构建大语言模型",
       "link": "https://www.infoq.cn/article/zjLVIHKAhr7B9qTo39Dp?utm_source=rss&utm_medium=article",
-      "description": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/zjLVIHKAhr7B9qTo39Dp?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>...",
+      "description": "点击查看原文>",
       "published": "Fri, 13 Feb 2026 10:00:00 GMT",
       "source": "InfoQ",
       "category": "编程技术",
-      "timestamp": 1771012412.356552
+      "timestamp": 1771016734.3096578
     },
     {
       "id": "22f4fe0ffdf7",
       "title": "Conductor Quantum 推出量子计算自然语言交互接口 Coda",
       "link": "https://www.infoq.cn/article/zxyv3HhCW1qkEIi44JBP?utm_source=rss&utm_medium=article",
-      "description": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/zxyv3HhCW1qkEIi44JBP?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>...",
+      "description": "点击查看原文>",
       "published": "Fri, 13 Feb 2026 08:00:00 GMT",
       "source": "InfoQ",
       "category": "编程技术",
-      "timestamp": 1771012412.356552
+      "timestamp": 1771016734.3096578
     },
     {
       "id": "0a47caa5b6e0",
       "title": "2025年的Web开发：AI的React偏见 vs 原生Web",
       "link": "https://www.infoq.cn/article/SIQ9aJiSeqplKcOeAAmM?utm_source=rss&utm_medium=article",
-      "description": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/SIQ9aJiSeqplKcOeAAmM?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>...",
+      "description": "点击查看原文>",
       "published": "Thu, 12 Feb 2026 18:21:41 GMT",
       "source": "InfoQ",
       "category": "编程技术",
-      "timestamp": 1771012412.356552
+      "timestamp": 1771016734.3096578
     },
     {
       "id": "d36fa985f041",
       "title": "“攻击迫在眉睫”，39%的云环境存在最高严重性的React漏洞",
       "link": "https://www.infoq.cn/article/qRHs8o3kirzwSImTe7iO?utm_source=rss&utm_medium=article",
-      "description": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/qRHs8o3kirzwSImTe7iO?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>...",
+      "description": "点击查看原文>",
       "published": "Thu, 12 Feb 2026 18:15:19 GMT",
       "source": "InfoQ",
       "category": "编程技术",
-      "timestamp": 1771012412.356552
+      "timestamp": 1771016734.3096578
     },
     {
       "id": "96946f8dded7",
       "title": "RFC 规范中的 CNAME 顺序问题是如何导致 Cloudflare 1.1.1.1 宕机的",
       "link": "https://www.infoq.cn/article/h5huIV6bVgqR2BeSNuPC?utm_source=rss&utm_medium=article",
-      "description": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/h5huIV6bVgqR2BeSNuPC?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>...",
+      "description": "点击查看原文>",
       "published": "Thu, 12 Feb 2026 18:00:00 GMT",
       "source": "InfoQ",
       "category": "编程技术",
-      "timestamp": 1771012412.356552
+      "timestamp": 1771016734.3096578
     },
     {
       "id": "d73fe8edb8b1",
       "title": "“代码 + 编译器”要消失了？马斯克在 xAI 全员会上放话：到今年年底，AI 或将直接生成二进制",
       "link": "https://www.infoq.cn/article/hsoVQfxDa9ofFiMZsDai?utm_source=rss&utm_medium=article",
-      "description": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/hsoVQfxDa9ofFiMZsDai?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>...",
+      "description": "点击查看原文>",
       "published": "Thu, 12 Feb 2026 17:51:56 GMT",
       "source": "InfoQ",
       "category": "编程技术",
-      "timestamp": 1771012412.356552
+      "timestamp": 1771016734.3096578
     },
     {
       "id": "a02c9ef0716a",
       "title": "“每给 Claude Code 提一个请求，我就点上一根烟，放松下”",
       "link": "https://www.infoq.cn/article/PpYEQfkrB25gN5rpPuKr?utm_source=rss&utm_medium=article",
-      "description": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/PpYEQfkrB25gN5rpPuKr?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>...",
+      "description": "点击查看原文>",
       "published": "Thu, 12 Feb 2026 12:00:00 GMT",
       "source": "InfoQ",
       "category": "编程技术",
-      "timestamp": 1771012412.356552
+      "timestamp": 1771016734.3096578
     },
     {
       "id": "1d451b34f61e",
       "title": "宝马、Indeed 和 WHOOP 的降本增效实践：如何在 Lakehouse 上构建分析与 AI 能力 ｜ 技术实践",
       "link": "https://www.infoq.cn/article/kwoK6RQOoOvhxfoUHR7d?utm_source=rss&utm_medium=article",
-      "description": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/kwoK6RQOoOvhxfoUHR7d?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>...",
+      "description": "点击查看原文>",
       "published": "Thu, 12 Feb 2026 11:46:32 GMT",
       "source": "InfoQ",
       "category": "编程技术",
-      "timestamp": 1771012412.356552
+      "timestamp": 1771016734.3096578
     },
     {
       "id": "bceffb4c28bd",
       "title": "谷歌为 Gemini 3 Flash 推出 Agentic Vision 功能",
       "link": "https://www.infoq.cn/article/2WMVYZUZHPArVTCUZzc4?utm_source=rss&utm_medium=article",
-      "description": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/2WMVYZUZHPArVTCUZzc4?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>...",
+      "description": "点击查看原文>",
       "published": "Thu, 12 Feb 2026 10:17:39 GMT",
       "source": "InfoQ",
       "category": "编程技术",
-      "timestamp": 1771012412.356552
+      "timestamp": 1771016734.3096578
     },
     {
       "id": "86a6c02d6699",
       "title": "LinkedIn利用GitHub Actions、CodeQL和Semgrep进行代码扫描",
       "link": "https://www.infoq.cn/article/8YqVuKOhz6RzKmmxEFje?utm_source=rss&utm_medium=article",
-      "description": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/8YqVuKOhz6RzKmmxEFje?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>...",
+      "description": "点击查看原文>",
       "published": "Thu, 12 Feb 2026 10:15:34 GMT",
       "source": "InfoQ",
       "category": "编程技术",
-      "timestamp": 1771012412.356552
+      "timestamp": 1771016734.3096578
     },
     {
       "id": "f397330b42ba",
       "title": "在遗留规则误拦合法流量后，GitHub重构了分层防御体系",
       "link": "https://www.infoq.cn/article/fpVPsSlLV5XCmB9Hl7ag?utm_source=rss&utm_medium=article",
-      "description": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/fpVPsSlLV5XCmB9Hl7ag?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>...",
+      "description": "点击查看原文>",
       "published": "Thu, 12 Feb 2026 10:12:28 GMT",
       "source": "InfoQ",
       "category": "编程技术",
-      "timestamp": 1771012412.356552
+      "timestamp": 1771016734.3096578
     },
     {
       "id": "093bfe313000",
       "title": "从告警疲劳到代理辅助的智能可观测性",
       "link": "https://www.infoq.cn/article/6UIpbWJ5TWjcIyJmMAPE?utm_source=rss&utm_medium=article",
-      "description": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/6UIpbWJ5TWjcIyJmMAPE?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>...",
+      "description": "点击查看原文>",
       "published": "Thu, 12 Feb 2026 10:09:59 GMT",
       "source": "InfoQ",
       "category": "编程技术",
-      "timestamp": 1771012412.356552
+      "timestamp": 1771016734.3096578
     },
     {
       "id": "0ed03fc458f6",
       "title": "如何使用Durable Objects处理响应和进行中的请求",
       "link": "https://www.infoq.cn/article/espgcPmH8wYJiLBkvI41?utm_source=rss&utm_medium=article",
-      "description": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/espgcPmH8wYJiLBkvI41?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>...",
+      "description": "点击查看原文>",
       "published": "Thu, 12 Feb 2026 10:07:10 GMT",
       "source": "InfoQ",
       "category": "编程技术",
-      "timestamp": 1771012412.356552
+      "timestamp": 1771016734.3096578
     },
     {
       "id": "ff4f9b9d61ea",
       "title": "本周看什么 | 最近值得一看的 8 部作品",
       "link": "https://sspai.com/post/106352",
-      "description": "📅本周新预告《来自深渊觉醒的神秘》首支预告2月8日，动画电影《来自深渊觉醒的神秘》发布了首支特报，定档2026年秋季在日本上映。本作改编自土笔章人的同名漫画，小岛正幸执导，仓田英之编剧，KevinPe ...<a href=\"https://sspai.com/post/106352\" target=\"_blank\">查看全文</a>...",
+      "description": "📅本周新预告《来自深渊觉醒的神秘》首支预告2月8日，动画电影《来自深渊觉醒的神秘》发布了首支特报，定档2026年秋季在日本上映。本作改编自土笔章人的同名漫画，小岛正幸执导，仓田英之编剧，KevinPe ...查看全文",
       "published": "Fri, 13 Feb 2026 17:31:26 +0800",
       "source": "少数派",
       "category": "科技评测",
-      "timestamp": 1771012411.2529886
+      "timestamp": 1771016733.162865
     },
     {
       "id": "ca0b5e93ece5",
       "title": "或许，这就是「跨场景」个人终端的理想形态：CES 2026 后的 Khadas Mind 2体验",
       "link": "https://sspai.com/post/105853",
-      "description": "2025年10月至2026年1月期间，少数派与模块化迷你主机先行品牌Khadas合作，发起了针对Khadas最新产品Mind2的众测活动。本次活动分两期举行，每期挑选10名少数派用户，免费提供包含主机 ...<a href=\"https://sspai.com/post/105853\" target=\"_blank\">查看全文</a>...",
+      "description": "2025年10月至2026年1月期间，少数派与模块化迷你主机先行品牌Khadas合作，发起了针对Khadas最新产品Mind2的众测活动。本次活动分两期举行，每期挑选10名少数派用户，免费提供包含主机 ...查看全文",
       "published": "Fri, 13 Feb 2026 17:06:45 +0800",
       "source": "少数派",
       "category": "科技评测",
-      "timestamp": 1771012411.2529886
+      "timestamp": 1771016733.162865
     },
     {
       "id": "56287b76c7c7",
       "title": "《英语自学手册》作者、创作者郝海龙都装了啥？",
       "link": "https://sspai.com/prime/story/zhuanglesha-260213",
-      "description": "按：@郝海龙是少数派人气付费教程《英语自学手册》的作者，也是许多人关注的创作者。本期，《装了啥》请到他介绍自己的近况的规划，常用的软硬件工具，以及关于AI时代学习英语和从事创作的思考。请介绍一下你自己 ...<a href=\"https://sspai.com/prime/story/zhuanglesha-260213\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a>，订阅后可阅读全文。</p>...",
+      "description": "按：@郝海龙是少数派人气付费教程《英语自学手册》的作者，也是许多人关注的创作者。本期，《装了啥》请到他介绍自己的近况的规划，常用的软硬件工具，以及关于AI时代学习英语和从事创作的思考。请介绍一下你自己 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
       "published": "Fri, 13 Feb 2026 16:23:30 +0800",
       "source": "少数派",
       "category": "科技评测",
-      "timestamp": 1771012411.2529886
+      "timestamp": 1771016733.162865
     },
     {
       "id": "ae5d0b1e56df",
       "title": "Kali LP-UNF：我心中的入门级桌面音箱最优解",
       "link": "https://sspai.com/post/106144",
-      "description": "在这个玄学肆虐的音频市场里，能有这样一个朴素，甚至有点接地气的品牌，何尝不是一种浪漫。<a href=\"https://sspai.com/post/106144\" target=\"_blank\">查看全文</a>...",
+      "description": "在这个玄学肆虐的音频市场里，能有这样一个朴素，甚至有点接地气的品牌，何尝不是一种浪漫。查看全文",
       "published": "Fri, 13 Feb 2026 11:04:38 +0800",
       "source": "少数派",
       "category": "科技评测",
-      "timestamp": 1771012411.2529886
+      "timestamp": 1771016733.162865
     },
     {
       "id": "c5171b532ed9",
       "title": "派早报：智谱上线并开源 GLM-5 模型、网信办开展春节清朗行动",
       "link": "https://sspai.com/post/106337",
-      "description": "字节跳动发布视频创作模型 Seedance 2.0，小米 Tag 追踪器已在欧洲市场上市。<a href=\"https://sspai.com/post/106337\" target=\"_blank\">查看全文</a>...",
+      "description": "字节跳动发布视频创作模型 Seedance 2.0，小米 Tag 追踪器已在欧洲市场上市。查看全文",
       "published": "Fri, 13 Feb 2026 08:30:55 +0800",
       "source": "少数派",
       "category": "科技评测",
-      "timestamp": 1771012411.2529886
+      "timestamp": 1771016733.162865
     },
     {
       "id": "2e37f5917c8f",
       "title": "春节长途旅行，这 6 款耐玩小游戏先备好",
       "link": "https://sspai.com/post/106284",
-      "description": "这篇文章推荐的游戏基于以下几个原则：无需联网，单机即可游玩；有极高的可重复性，无法以线性叙事「通关」或离通关的距离很远；至少有 iOS/Android 或 Switch 的版本可选。希望这些游戏能让你的旅途再轻松一点。<a href=\"https://sspai.com/post/106284\" target=\"_blank\">查看全文</a>...",
+      "description": "这篇文章推荐的游戏基于以下几个原则：无需联网，单机即可游玩；有极高的可重复性，无法以线性叙事「通关」或离通关的距离很远；至少有 iOS/Android 或 Switch 的版本可选。希望这些游戏能让你的旅途再轻松一点。查看全文",
       "published": "Thu, 12 Feb 2026 17:30:00 +0800",
       "source": "少数派",
       "category": "科技评测",
-      "timestamp": 1771012411.2529886
+      "timestamp": 1771016733.162865
     },
     {
       "id": "f062d0db6391",
       "title": "iOS 26.3 值得关注的新特性",
       "link": "https://sspai.com/post/106202",
-      "description": "在iOS26.3正式版推出的这个时间点，离Apple的Q1财报发布已经过去了一周多的时间。有意思的是，最近半年Apple的股价因为AI进展缓慢而一直承压，在「美股七姐妹」中显得格格不入，却在最近半个月 ...<a href=\"https://sspai.com/post/106202\" target=\"_blank\">查看全文</a>...",
+      "description": "在iOS26.3正式版推出的这个时间点，离Apple的Q1财报发布已经过去了一周多的时间。有意思的是，最近半年Apple的股价因为AI进展缓慢而一直承压，在「美股七姐妹」中显得格格不入，却在最近半个月 ...查看全文",
       "published": "Thu, 12 Feb 2026 15:31:07 +0800",
       "source": "少数派",
       "category": "科技评测",
-      "timestamp": 1771012411.2529886
+      "timestamp": 1771016733.162865
     },
     {
       "id": "6e98981178e3",
       "title": "普通人更要多动手：聊聊我把 Claude Code 变成个人助手后的那些事",
       "link": "https://sspai.com/post/105331",
-      "description": "下载一个 Claude Code 或者 Cursor，把你的想法告诉 AI。你会发现，原来自己能做到的事情，比想象中多得多。<a href=\"https://sspai.com/post/105331\" target=\"_blank\">查看全文</a>...",
+      "description": "下载一个 Claude Code 或者 Cursor，把你的想法告诉 AI。你会发现，原来自己能做到的事情，比想象中多得多。查看全文",
       "published": "Thu, 12 Feb 2026 11:31:21 +0800",
       "source": "少数派",
       "category": "科技评测",
-      "timestamp": 1771012411.2529886
+      "timestamp": 1771016733.162865
     },
     {
       "id": "2c6c75d6a5e6",
       "title": "派早报：Apple 将举办五十周年庆、VSCO 上架 Lr 预设等",
       "link": "https://sspai.com/post/106310",
-      "description": "WhatsApp 网页版将迎来大更新、CrossOver 上线新的大版本等。<a href=\"https://sspai.com/post/106310\" target=\"_blank\">查看全文</a>...",
+      "description": "WhatsApp 网页版将迎来大更新、CrossOver 上线新的大版本等。查看全文",
       "published": "Thu, 12 Feb 2026 08:32:34 +0800",
       "source": "少数派",
       "category": "科技评测",
-      "timestamp": 1771012411.2529886
+      "timestamp": 1771016733.162865
     },
     {
       "id": "21ccee46808d",
       "title": "OpenClaw：高强度使用两周，这个 AI 工具颠覆了我的工作流",
       "link": "https://sspai.com/post/106232",
-      "description": "我相信很多人在最近一个月都被一款叫作OpenClaw的AI工具刷屏了。据社交平台发布和社区早期讨论，这款工具曾经历过多次命名调整，最终定名为OpenClaw。在更名期间，还发生了社交平台账号被恶意抢注 ...<a href=\"https://sspai.com/post/106232\" target=\"_blank\">查看全文</a>...",
+      "description": "我相信很多人在最近一个月都被一款叫作OpenClaw的AI工具刷屏了。据社交平台发布和社区早期讨论，这款工具曾经历过多次命名调整，最终定名为OpenClaw。在更名期间，还发生了社交平台账号被恶意抢注 ...查看全文",
       "published": "Wed, 11 Feb 2026 17:47:35 +0800",
       "source": "少数派",
       "category": "科技评测",
-      "timestamp": 1771012411.2529886
-    },
-    {
-      "id": "ffd42148b392",
-      "title": "具身智能如何抵达 “ChatGPT时刻”？智源院长、清华教授和3位创始人聊了聊",
-      "link": "https://36kr.com/p/3681608747609988?f=rss",
-      "description": "<p><strong>文｜富充</strong></p>\n  <p><strong>编辑｜苏建勋</strong></p>\n  <p>具身智能正在等待自己的“ChatGPT时刻”。但关于这个时刻的具体定义，业内还充满非共识。</p>\n  <p>近日，原力灵机的技术开放日圆桌论坛上，5位AI界的一线产、学、研从业者把这个问题摊开，各自发表了见解。他们分别是：</p>\n  <p><strong>清华大学电子工程系长聘教授汪玉</strong></p>\n  <p><strong>北京智源人工智能研究院院长王仲远</strong></p>\n  <p><strong>阶跃星辰创始人&amp;CEO 姜大...",
-      "published": "2026-02-13 18:49:11  +0800",
-      "source": "36氪",
-      "category": "科技新闻",
-      "timestamp": 1771012409.9679856
-    },
-    {
-      "id": "cc06a557f4b4",
-      "title": "二测PV千万播放，网易这款王牌之一的新品值得期待吗？",
-      "link": "https://36kr.com/p/3681427895398016?f=rss",
-      "description": "<p>文丨果脯</p>\n  <p>临近春节，不少游戏都已经开始施展拳脚——哪怕是那些没上线的项目。上周四，网易旗下Joker工作室的新作《遗忘之海》也正式开始二测。</p>\n  <p>尽管此次《遗忘之海》并未刻意做大规模宣发，但游戏仍旧受到了不少关注。截至完稿，游戏于2月5日发布的看板娘「艾丝」角色PV已经在B站收获了244万播放量，而更早的测试预告，播放量已超千万。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260213/v2_d460be29ff834c069368e057f5257...",
-      "published": "2026-02-13 17:40:08  +0800",
-      "source": "36氪",
-      "category": "科技新闻",
-      "timestamp": 1771012409.9679856
+      "timestamp": 1771016733.162865
     },
     {
       "id": "f01a7a9158ee",
       "title": "氪星晚报｜MOVA TPEAK宣布签订亿元订单；韩国SK集团董事长密集会晤硅谷巨头，布局AI半导体生态；小米汽车累计交付量已超60万台",
       "link": "https://36kr.com/p/3681523965996928?f=rss",
-      "description": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3681446114537089\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>韩国SK集团董事长密集会晤硅谷巨头，布局AI半导体生态</strong></a></p>\n  <p>韩国SK集团董事长崔泰源在美国硅谷商务出差期间，继会见英伟达之后，又与多家全球大型科技公司CEO进��了会晤，包括谷歌、微软、博通和Meta等。 根据SK海力士新闻室13日的消息，崔董事长自本月初访美以来，先后会见了...",
+      "description": "大公司： 韩国SK集团董事长密集会晤硅谷巨头，布局AI半导体生态 韩国SK集团董事长崔泰源在美国硅谷商务出差期间，继会见英伟达之后，又与多家全球大型科技公司CEO进行了会晤，包括谷歌、微软、博通和Meta等。 根据SK海力士新闻室13日的消息，崔董事长自本月初访美以来，先后会见了英伟达CEO黄仁勋、博通CEO陈福阳、微软CEO萨蒂亚·纳德拉、Meta CEO马克·扎克伯格以及谷歌CEO桑达尔·皮查...",
       "published": "2026-02-13 17:31:42  +0800",
       "source": "36氪",
       "category": "科技新闻",
-      "timestamp": 1771012409.9679856
+      "timestamp": 1771016731.866293
     },
     {
       "id": "7c1825b14c34",
       "title": "Teamily AI 推出”北美元宝派”加强版，支持多人与多个AI Agents实时社交丨涌现新项目",
       "link": "https://36kr.com/p/3678646020940422?f=rss",
-      "description": "<h3>一句话介绍</h3>\n  <p>Teamily AI 是一个 AI-native 即时消息应用（instant messenger），支持多个人类与多个 AI agents（代理）协作。它的核心是“代理社交网络”（agentic social network），人类与 AI agents可以在这里实时共存、互动。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260213/v2_079a2d2e8552437f9072270f74568c91@10269314_oswg1392264...",
+      "description": "一句话介绍 Teamily AI 是一个 AI-native 即时消息应用（instant messenger），支持多个人类与多个 AI agents（代理）协作。它的核心是“代理社交网络”（agentic social network），人类与 AI agents可以在这里实时共存、互动。 Teamily AI 融资进展 Teamily AI 已经累计完成了 2000 万美元的融资，预计今年3...",
       "published": "2026-02-13 15:49:37  +0800",
       "source": "36氪",
       "category": "科技新闻",
-      "timestamp": 1771012409.9679856
+      "timestamp": 1771016731.866293
     },
     {
       "id": "b448ceb50e97",
       "title": "元气森林唐彬森九周年内部信：2025 虽有进步，市场依旧严峻｜独家",
       "link": "https://36kr.com/p/3681124596690822?f=rss",
-      "description": "<p>文｜李小霞</p>\n  <p>编辑｜乔芊</p>\n  <p>2 月 13 日，元气森林创始人唐彬森发布九周年内部信，全面复盘 2025 年经营成果，并明确 2026 年发展方向。</p>\n  <p>信中指出，2025 年公司盈利能力持续提升，增长质量与效率较往年明显改善。唐彬森表示，<strong>2024 年公司初步验证盈利可能性，2025 年则在高质量增长上实现关键突破，核心得益于 “控费用、控价盘、控 SKU” 的战略聚焦</strong>，通过主动优化资源配置、集中发力主航道，有效提升经营质量与抗风险能力。</p>\n  <p>在内功建设上，元气森林在多方面实现系统性提升：渠道深耕...",
+      "description": "文｜李小霞 编辑｜乔芊 2 月 13 日，元气森林创始人唐彬森发布九周年内部信，全面复盘 2025 年经营成果，并明确 2026 年发展方向。 信中指出，2025 年公司盈利能力持续提升，增长质量与效率较往年明显改善。唐彬森表示，2024 年公司���步验证盈利可能性，2025 年则在高质量增长上实现关键突破，核心得益于 “控费用、控价盘、控 SKU” 的战略聚焦，通过主动优化资源配置、集中发力主...",
       "published": "2026-02-13 12:58:01  +0800",
       "source": "36氪",
       "category": "科技新闻",
-      "timestamp": 1771012409.9679856
+      "timestamp": 1771016731.866293
     },
     {
       "id": "0ee0c3b1ffda",
       "title": "四年三款爆品，LiberLive U1发布、C系列累计出货超50万台｜最前线",
       "link": "https://36kr.com/p/3681146132836226?f=rss",
-      "description": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>音乐消费市场横亘着一道不易察觉的供需断层。</p>\n  <p>一边是庞大的潜在用户池，中国乐器消费年增速保持在12%以上；另一边是陡峭的转化断层，一把传统民谣吉他的完整学习曲线需要跨越和弦记忆、指法训练、节奏把控三道门槛，任何节点都足以让多数用户在购入设备的两个月内，将其归向闲鱼或床底。</p>\n  <p>乐器行业的设备供给长期瞄准专业玩家，以考级体系为路径开展入门教学，但对于那个更庞大、只想在某个瞬间用音乐表达自我的群体，始终未被真正满足。</p>\n  <p>LiberLive的出现，恰好处在断层带上。无弦吉他这个出现仅四年...",
+      "description": "作者｜黄楠 编辑｜袁斯来 音乐消费市场横亘着一道不易察觉的供需断层。 一边是庞大的潜在用户池，中国乐器消费年增速保持在12%以上；另一边是陡峭的转化断层，一把传统民谣吉他的完整学习曲线需要跨越和弦记忆、指法训练、节奏把控三道门槛，任何节点都足以让多数用户在购入设备的两个月内，将其归向闲鱼或床底。 乐器行业的设备供给长期瞄准专业玩家，以考级体系为路径开展入门教学，但对于那个更庞大、只想在某个瞬间用音...",
       "published": "2026-02-13 11:15:54  +0800",
       "source": "36氪",
       "category": "科技新闻",
-      "timestamp": 1771012409.9679856
+      "timestamp": 1771016731.866293
     },
     {
       "id": "d25b17fb9967",
       "title": "畜牧业具身智能公司完成千万元融资，天空工场创投基金孵化｜硬氪首发",
       "link": "https://36kr.com/p/3681060245581448?f=rss",
-      "description": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，女娲农业科技（深圳）有限公司（以下简称“女娲农业科技”）近日完成数千万元融资，投资方为厦门国升基金。本轮融资将主要用于核心技术研发、产品工程化升级及规模化落地。</p>\n  <p>女娲农业科技成立于2025年12月，由天空工场创投基金孵化，聚焦畜牧业智能化升级，致力于以具身智能机器人切入传统畜牧养殖场景，通过“清洁+健康监测”的一体化解决方案，提升养殖效率、优化人工结构，并强化生物安全管理能力。</p>\n  <p>公司创始人罗浩，曾在新希望、正邦科技等大型农牧企业担任...",
+      "description": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，女娲农业科技（深圳）有限公司（以下简称“女娲农业科技”）近日完成数千万元融资，投资方为厦门国升基金。本轮融资将主要用于核心技术研发、产品工程化升级及规模化落地。 女娲农业科技成立于2025年12月，由天空工场创投基金孵化，聚焦畜牧业智能化升级，致力于以具身智能机器人切入传统畜牧养殖场景，通过“清洁+健康监测”的一体化解决方案，提升养殖效率、优化人工结构...",
       "published": "2026-02-13 09:31:34  +0800",
       "source": "36氪",
       "category": "科技新闻",
-      "timestamp": 1771012409.9679856
+      "timestamp": 1771016731.866293
     },
     {
       "id": "4022a65169f4",
       "title": "商业航天核心硬件供应商获近亿元融资，团队来自中科院｜硬氪首发",
       "link": "https://36kr.com/p/3681056499642245?f=rss",
-      "description": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，济南感知起源信息科技有限公司（下称“感知起源”）近日完成新一轮数千万元融资。本轮融资由山东财金领投，厦门高新创臻、苏州里奥未来、济南财鑫股权投资共同参与。该笔融资后，感知起源完成其天使轮及天使+轮融资。公司累计融资额近亿元，资金用于首台套自研商业合成孔径雷达（SAR）载荷的研发及入轨验证、更新型谱产品预研以及商业拓展工作。</p>\n  <p>济南感知起源成立于2023年，是专注于商业SAR载荷的制造商。公司创始人、董事长兼总师马兵强博士，中科院空天院（原中科院电子所）...",
+      "description": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，济南感知起源信息科技有限公司（下称“感知起源”）近日完成新一轮数千万元融资。本轮融资由山东财金领投，厦门高新创臻、苏州里奥未来、济南财鑫股权投资共同参与。该笔融资后，感知起源完成其天使轮及天使+轮融资。公司累计融资额近亿元，资金用于首台套自研商业合成孔径雷达（SAR）载荷的研发及入轨验证、更新型谱产品预研以及商业拓展工作。 济南感知起源成立于2023年...",
       "published": "2026-02-13 09:25:44  +0800",
       "source": "36氪",
       "category": "科技新闻",
-      "timestamp": 1771012409.9679856
+      "timestamp": 1771016731.866293
     },
     {
       "id": "352b8f60251d",
       "title": "8点1氪丨美司法部长拒向爱泼斯坦案幸存者道歉；影石CEO回应年会送房；12306新增“低人一等座”提醒",
       "link": "https://36kr.com/p/3680980301885317?f=rss",
-      "description": "<h2>今日热点导览</h2>\n  <p>2025年全国结婚登记676.3万对，较上一年增加65.7万对</p>\n  <p>马斯克获评美国最伟大创新者，英伟达CEO黄仁勋名列第五</p>\n  <p>比尔·盖茨时隔两年半再度到访中国</p>\n  <p>中国联通：高级副总裁王利民辞职</p>\n  <p>LV、迪奥和蒂芙尼因信息泄露在韩国共计被罚超360亿韩元</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>美司法部长拒向爱泼斯坦案件幸存者道歉</strong></p>\n  <p>2月11日，在美国国会众议院司法委员会的一场听证会上，美国司法部长帕姆·邦迪对爱泼斯坦案的受害者...",
+      "description": "今日热点导览 2025年全国结婚登记676.3万对，较上一年增加65.7万对 马斯克获评美国最伟大创新者，英伟达CEO黄仁勋名列第五 比尔·盖茨时隔两年半再度到访中国 中国联通：高级副总裁王利民辞职 LV、迪奥和蒂芙尼因信息泄露在韩国共计被罚超360亿韩元 TOP3大新闻 美司法部长拒向爱泼斯坦案件幸存者道歉 2月11日，在美国国会众议院司法委员会的一场听证会上，美国司法部长帕姆·邦迪对爱泼斯坦案...",
       "published": "2026-02-13 08:09:45  +0800",
       "source": "36氪",
       "category": "科技新闻",
-      "timestamp": 1771012409.9679856
+      "timestamp": 1771016731.866293
     },
     {
       "id": "bb2b63adbe8c",
       "title": "这家机器人公司把“具身数据”塞进1万个背包里",
       "link": "https://36kr.com/p/3680210722254473?f=rss",
-      "description": "<p>作者丨苏建勋</p>\n  <p>在具身智能领域，“搞数据”这个事儿，可能是为数不多的共识。</p>\n  <p>依靠训练巨量数据，大语言模型诞生了Chatgpt，“Scaling Law”也成了AI人的信仰，可在具身智能所属的物理世界，没有互联网上海量的数据参照。不论是人，还是机器人，在现实中的数据量，都不足以复现GPT时刻。</p>\n  <p>所以，数据怎么搞，能搞到多少，以及要让数据有质量，就成了具身智能从业者当下最重要的工作之一。</p>\n  <p>最近，就有一家机器人公司想在数据采集上“整点花活儿”。鹿明机器人发布了全球首款背包版UMI数采设备FastUMI Pro（背包版），并计...",
+      "description": "作者丨苏建勋 在具身智能领域，“搞数据”这个事儿，可能是为数不多的共识。 依靠训练巨量数据，大语言模型诞生了Chatgpt，“Scaling Law”也成了AI人的信仰，可在具身智能所属的物理世界，没有互联网上海量的数据参照。不论是人，还是机器人，在现实中的数据量，都不足以复现GPT时刻。 所以，数据怎么搞，能搞到多少，以及要让数据有质量，就成了具身智能从业者当下最重要的工作之一。 最近，就有一家...",
       "published": "2026-02-12 20:05:29  +0800",
       "source": "36氪",
       "category": "科技新闻",
-      "timestamp": 1771012409.9679856
+      "timestamp": 1771016731.866293
     },
     {
       "id": "4136ab2a216d",
       "title": "热门中概股美股盘前多数下跌，理想汽车跌超2%",
       "link": "https://36kr.com/newsflashes/3681738458967680?f=rss",
-      "description": "36氪获悉，热门中概股美股盘前多数下跌，截至发稿，理想汽车跌超2%，京东跌超1%，小鹏汽车跌0.79%，阿里巴巴跌0.72%，百度跌0.57%，爱奇艺跌0.55%，拼多多涨0.59%，哔哩哔哩涨0.26%。...",
+      "description": "36氪获悉，热门中概股美股盘前多数下跌，截至发稿，理想汽车跌超2%，京东跌超1%，小鹏汽车跌0.79%，阿里巴巴跌0.72%，百度跌0.57%，爱奇艺跌0.55%，拼多多涨0.59%，哔哩哔哩涨0.26%。",
       "published": "2026-02-13 20:58:02  +0800",
       "source": "36氪",
       "category": "科技新闻",
-      "timestamp": 1771012409.9679856
+      "timestamp": 1771016731.866293
     },
     {
       "id": "f5aab134abea",
       "title": "商务部新闻发言人就荷公布安世半导体案裁决结果答记者问",
       "link": "https://36kr.com/newsflashes/3681736189210498?f=rss",
-      "description": "36氪获悉，商务部新闻发言人就荷公布安世半导体案裁决结果答记者问。有记者问：2月11日，荷兰企业法庭公布安世半导体案裁决结果，决定对安世半导体涉嫌管理不善开展调查。请问中方对此有何评论？答：中方注意到相关消息。我们认为，当务之急是要恢复全球半导体供应链稳定畅通，这是包括中荷在内的国际业界的共同利益诉求。希望荷方相向而行，从维护全球半导体产业链供应链稳定的大局出发，为双方企业协商建设性解决内部纠纷创造有利条件。...",
+      "description": "36氪获悉，商务部新闻发言人就荷公布安世半导体案裁决结果答记者问。有记者问：2月11日，荷兰企业法庭公布安世半导体案裁决结果，决定对安世半导体涉嫌管理不善开展调查。请问中方对此有何评论？答：中方注意到相关消息。我们认为，当务之急是要恢复全球半导体供应链稳定畅通，这是包括中荷在内的国际业界的共同利益诉求。希望荷方相向而行，从维护全球半导体产业链供应链稳定的大局出发，为双方企业协商建设性解决内部纠纷创...",
       "published": "2026-02-13 20:55:43  +0800",
       "source": "36氪",
       "category": "科技新闻",
-      "timestamp": 1771012409.9679856
+      "timestamp": 1771016731.866293
     },
     {
       "id": "faebc024a76d",
       "title": "美股大型科技股盘前普跌，英特尔跌超1%",
       "link": "https://36kr.com/newsflashes/3681734501904256?f=rss",
-      "description": "36氪获悉，美股大型科技股盘前普跌，截至发稿，英特尔跌超1%，特斯拉跌0.82%，亚马逊跌0.73%，Meta跌0.49%，谷歌跌0.44%，苹果跌0.14%，微软跌0.03%，英伟达涨0.03%。...",
+      "description": "36氪获悉，美股大型科技股盘前普跌，截至发稿，英特尔跌超1%，特斯拉跌0.82%，亚马逊跌0.73%，Meta跌0.49%，谷歌跌0.44%，苹果跌0.14%，微软跌0.03%，英伟达涨0.03%。",
       "published": "2026-02-13 20:54:00  +0800",
       "source": "36氪",
       "category": "科技新闻",
-      "timestamp": 1771012409.9679856
+      "timestamp": 1771016731.866293
     },
     {
       "id": "e88d4110e6ce",
       "title": "润泽科技：拟购买广东润惠42.56%股权，股票将于2月24日复牌",
       "link": "https://36kr.com/newsflashes/3681730918002309?f=rss",
-      "description": "36氪获悉，润泽科技公告，公司拟向中金算力基金等12名投资者通过发行可转换公司债券的方式购买其合计持有的广东润惠科技发展有限公司42.56%股权，并向不超过35名特定投资者发行股份募集配套资金，截至本预案摘要签署日，标的公司的审计和评估工作尚未完成，本次交易的具体交易价格尚未确定。公司股票将于2026年2月24日开市起复牌。广东润惠的主营业务与上市公司相同，主要为IDC业务和AIDC业务。...",
+      "description": "36氪获悉，润泽科技公告，公司拟向中金算力基金等12名投资者通过发行可转换公司债券的方式购买其合计持有的广东润惠科技发展有限公司42.56%股权，并向不超过35名特定投资者发行股份募集配套资金，截至本预案摘要签署日，标的公司的审计和评估工作尚未完成，本次交易的具体交易价格尚未确定。公司股票将于2026年2月24日开市起复牌。广东润惠的主营业务与上市公司相同，主要为IDC业务和AIDC业务。",
       "published": "2026-02-13 20:50:21  +0800",
       "source": "36氪",
       "category": "科技新闻",
-      "timestamp": 1771012409.9679856
+      "timestamp": 1771016731.866293
     },
     {
       "id": "a9687a80f1a9",
       "title": "奥联电子：控股股东终止控制权转让",
       "link": "https://36kr.com/newsflashes/3681722399026817?f=rss",
-      "description": "36氪获悉，奥联电子公告，公司收到控股股东瑞盈资产出具的《通知函》，受让方潮成创新未按约定足额支付第一期股份转让对价，已构成违约。据此，瑞盈资产向潮成创新发出《解除通知函》，自潮成创新收到函件起，双方签署的《股份转让协议》解除。本次股份转让协议解除后，本次控制权转让事项相应终止，公司控股股东仍为瑞盈资产，实际控制人仍为钱明飞。...",
+      "description": "36氪获悉，奥联电子公告，公司收到控股股东瑞盈资产出具的《通知函》，受让方潮成创新未按约定足额支付第一期股份转让对价，已构成违约。据此，瑞盈资产向潮成创新发出《解除通知函》，自潮成创新收到函件起，双方签署的《股份转让协议》解除。本次股份转让协议解除后，本次控制权转让事项相应终止，公司控股股东仍为瑞盈资产，实际控制人仍为钱明飞。",
       "published": "2026-02-13 20:47:37  +0800",
       "source": "36氪",
       "category": "科技新闻",
-      "timestamp": 1771012409.9679856
+      "timestamp": 1771016731.866293
     },
     {
       "id": "ffb362f302c5",
       "title": "三部门发布关于“十五五”期间支持科技创新进口税收优惠政策的通知",
       "link": "https://36kr.com/newsflashes/3681721066401417?f=rss",
-      "description": "36氪获悉，财政部等三部门发布关于“十五五”期间支持科技创新进口税收优惠政策的通知。其中提出，对科学研究机构、技术开发机构、学校、党校（行政学院）、图书馆进口国内不能生产或性能不能满足需要的科学研究、科技开发和教学用品，免征进口关税和进口环节增值税、消费税。对出版物进口单位为科学研究机构、技术开发机构、学校、党校（行政学院）、图书馆进口用于科研、教学的图书、资料，免征进口环节增值税。...",
+      "description": "36氪获悉，财政部等三部门发布关于“十五五”期间支持科技创新进口税收优惠政策的通知。其中提出，对科学研究机构、技术开发机构、学校、党校（行政学院）、图书馆进口国内不能生产或性能不能满足需要的科学研究、科技开发和教学用品，免征进口关税和进口环节增值税、消费税。对出版物进口单位为科学研究机构、技术开发机构、学校、党校（行政学院）、图书馆进口用于科研、教学的图书、资料，免征进口环节增值税。",
       "published": "2026-02-13 20:40:20  +0800",
       "source": "36氪",
       "category": "科技新闻",
-      "timestamp": 1771012409.9679856
+      "timestamp": 1771016731.866293
     },
     {
       "id": "07aaaa410ac6",
       "title": "南京化纤：拟通过资产置换、发行股份及支付现金方式购买南京工艺装备制造股份有限公司100%股份",
       "link": "https://36kr.com/newsflashes/3681720633208710?f=rss",
-      "description": "36氪获悉，南京化纤公告，公司拟通过资产置换、发行股份及支付现金方式购买南京工艺装备制造股份有限公司100%股份，并募集配套资金。根据江苏华信资产评估有限公司出具的评估报告，南京化纤截至评估基准日（2024年12月31日）的全部资产及负债评估值为7.29亿元，南京工艺100%股份评估值为16.07亿元。本次交易拟置出资产交易价格为7.29亿元，拟置入资产交易价格为16.07亿元。...",
+      "description": "36氪获悉，南京化纤公告，公司拟通过资产置换、发行股份及支付现金方式购买南京工艺装备制造股份有限公司100%股份，并募集配套资金。根据江苏华信资产评估有限公司出具的评估报告，南京化纤截至评估基准日（2024年12月31日）的全部资产及负债评估值为7.29亿元，南京工艺100%股份评估值为16.07亿元。本次交易拟置出资产交易价格为7.29亿元，拟置入资产交易价格为16.07亿元。",
       "published": "2026-02-13 20:39:54  +0800",
       "source": "36氪",
       "category": "科技新闻",
-      "timestamp": 1771012409.9679856
+      "timestamp": 1771016731.866293
     },
     {
       "id": "febb4d5572fb",
       "title": "晶丰明源：拟发行股份及支付现金购买易冲科技100%股权并募集配套资金",
       "link": "https://36kr.com/newsflashes/3681693853249155?f=rss",
-      "description": "36氪获悉，晶丰明源公告，公司计划通过发行股份及支付现金的方式向玮峻思等50名交易对方购买其合计持有的易冲科技100%股权。易冲科技主要从事无线充电芯片、通用充电芯片、汽车电源管理芯片、AC/DC及协议芯片等高性能模拟芯片及数模混合信号芯片的研发、设计和销售。近年来，易冲科技收入规模快速增长，2023年及2024年的营业收入同比增长分别达到45.02%、47.04%。同时，公司还将募集配套资金，募集对象为不超过35名符合中国证监会规定的特定投资者。...",
+      "description": "36氪获悉，晶丰明源公告，公司计划通过发行股份及支付现金的方式向玮峻思等50名交易对方购买其合计持有的易冲科技100%股权。易冲科技主要从事无线充电芯片、通用充电芯片、汽车电源管理芯片、AC/DC及协议芯片等高性能模拟芯片及数模混合信号芯片的研发、设计和销售。近年来，易冲科技收入规模快速增长，2023年及2024年的营业收入同比增长分别达到45.02%、47.04%。同时，公司还将募集配套资金，募...",
       "published": "2026-02-13 20:30:29  +0800",
       "source": "36氪",
       "category": "科技新闻",
-      "timestamp": 1771012409.9679856
+      "timestamp": 1771016731.866293
     },
     {
       "id": "1cd5543f0977",
       "title": "TCL中环：子公司出售马来西亚子公司100%股权完成交割",
       "link": "https://36kr.com/newsflashes/3681685501063041?f=rss",
-      "description": "36氪获悉，TCL中环公告，2026年1月24日，其控股子公司Maxeon的全资子公司SPT拟向胜宏科技孙公司MFSS出售马来西亚全资子公司SPMY100%股权，交易总对价不超5100万美元。2月13日，该交易已完成全部交割工作，SPMY不再纳入公司及Maxeon合并报表范围。...",
+      "description": "36氪获悉，TCL中环公告，2026年1月24日，其控股子公司Maxeon的全资子公司SPT拟向胜宏科技孙公司MFSS出售马来西亚全资子公司SPMY100%股权，交易总对价不超5100万美元。2月13日，该交易已完成全部交割工作，SPMY不再纳入公司及Maxeon合并报表范围。",
       "published": "2026-02-13 20:23:59  +0800",
       "source": "36氪",
       "category": "科技新闻",
-      "timestamp": 1771012409.9679856
+      "timestamp": 1771016731.866293
     },
     {
       "id": "b4c9fa226561",
       "title": "维眸生物向港交所提交上市申请",
       "link": "https://36kr.com/newsflashes/3681679406820995?f=rss",
-      "description": "36氪获悉，港交所文件显示，维眸生物科技（浙江）股份有限公司向港交所提交上市申请书，独家保荐人为中金公司。...",
+      "description": "36氪获悉，港交所文件显示，维眸生物科技（浙江）股份有限公司向港交所提交上市申请书，独家保荐人为中金公司。",
       "published": "2026-02-13 20:15:50  +0800",
       "source": "36氪",
       "category": "科技新闻",
-      "timestamp": 1771012409.9679856
+      "timestamp": 1771016731.866293
+    },
+    {
+      "id": "ffd42148b392",
+      "title": "具身智能如何抵达 “ChatGPT时刻”？智源院长、清华教授和3位创始人聊了聊",
+      "link": "https://36kr.com/p/3681608747609988?f=rss",
+      "description": "文｜富充 编辑｜苏建勋 具身智能正在等待自己的“ChatGPT时刻”。但关于这个时刻的具体定义，业内还充满非共识。 近日，原力灵机的技术开放日圆桌论坛上，5位AI界的一线产、学、研从业者把这个问题摊开，各自发表了见解。他们分别是： 清华大学电子工程系长聘教授汪玉 北京智源人工智能研究院院长王仲远 阶跃星辰创始人&CEO 姜大昕 星海图创始人&CEO 高继扬 原力灵机联合创始人&CEO 唐文斌 阶跃...",
+      "published": "2026-02-13 18:49:11  +0800",
+      "source": "36氪",
+      "category": "科技新闻",
+      "timestamp": 1771016731.8654716
+    },
+    {
+      "id": "cc06a557f4b4",
+      "title": "二测PV千万播放，网易这款王牌之一的新品值得期待吗？",
+      "link": "https://36kr.com/p/3681427895398016?f=rss",
+      "description": "文丨果脯 临近春节，不少游戏都已经开始施展拳脚——哪怕是那些没上线的项目。上周四，网易旗下Joker工作室的新作《遗忘之海》也正式开始二测。 尽管此次《遗忘之海》并未刻意做大规模宣发，但游戏仍旧受到了不少关注。截至完稿，游戏于2月5日发布的看板娘「艾丝」角色PV已经在B站收获了244万播放量，而更早的测试预告，播放量已超千万。 游戏B站官号截图 此前，网易官方也不止一次展现对《遗忘之海》的重视。2...",
+      "published": "2026-02-13 17:40:08  +0800",
+      "source": "36氪",
+      "category": "科技新闻",
+      "timestamp": 1771016731.8654716
     }
   ]
 }

@@ -8,8 +8,10 @@ import io
 import feedparser
 import json
 import time
+import re
 from datetime import datetime
 from urllib.parse import urlparse
+from html import unescape
 import hashlib
 
 # 修复Windows控制台编码问题
@@ -26,6 +28,25 @@ def generate_id(url):
     """生成文章唯一ID"""
     return hashlib.md5(url.encode()).hexdigest()[:12]
 
+def clean_html(text):
+    """清理HTML标签，只保留纯文本"""
+    if not text:
+        return ''
+
+    # 解码HTML实体 (如 &amp; &lt; 等)
+    text = unescape(text)
+
+    # 移除HTML标签
+    text = re.sub(r'<[^>]+>', '', text)
+
+    # 移除多余的空白字符
+    text = re.sub(r'\s+', ' ', text)
+
+    # 去除首尾空格
+    text = text.strip()
+
+    return text
+
 def parse_rss_feed(feed_url, feed_name, category, max_articles):
     """解析单个RSS源"""
     print(f"📡 正在抓取: {feed_name} ({feed_url})")
@@ -35,11 +56,19 @@ def parse_rss_feed(feed_url, feed_name, category, max_articles):
         articles = []
 
         for entry in feed.entries[:max_articles]:
+            # 获取描述并清理HTML
+            raw_description = entry.get('summary', entry.get('description', ''))
+            clean_description = clean_html(raw_description)
+
+            # 限制长度
+            if len(clean_description) > 200:
+                clean_description = clean_description[:200] + '...'
+
             article = {
                 'id': generate_id(entry.link),
                 'title': entry.get('title', '无标题'),
                 'link': entry.get('link', ''),
-                'description': entry.get('summary', entry.get('description', ''))[:300] + '...',
+                'description': clean_description,
                 'published': entry.get('published', entry.get('updated', '')),
                 'source': feed_name,
                 'category': category,
