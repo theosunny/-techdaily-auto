@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import { useEffect, useState } from 'react';
+import Script from 'next/script';
 
 export default function Home() {
   const [data, setData] = useState(null);
@@ -20,6 +21,17 @@ export default function Home() {
       });
   }, []);
 
+  // 加载AdSense广告
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      try {
+        (window.adsbygoogle = window.adsbygoogle || []).push({});
+      } catch (err) {
+        console.log('AdSense error:', err);
+      }
+    }
+  }, [data]);
+
   // 获取所有分类
   const categories = data ? ['全部', ...new Set(data.articles.map(a => a.category))] : ['全部'];
 
@@ -38,6 +50,14 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
+      {/* Google AdSense Script - 使用测试发布商ID */}
+      <Script
+        async
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3940256099942544"
+        crossOrigin="anonymous"
+        strategy="afterInteractive"
+      />
+
       <div className="container">
         {/* 头部 */}
         <header className="header">
@@ -52,9 +72,12 @@ export default function Home() {
 
         {/* Google AdSense 横幅广告位 */}
         <div className="ad-banner">
-          <div style={{background: '#f0f0f0', padding: '20px', textAlign: 'center', color: '#999'}}>
-            [ 广告位 - 在这里添加 Google AdSense 代码 ]
-          </div>
+          <ins className="adsbygoogle"
+               style={{display: 'block'}}
+               data-ad-client="ca-pub-3940256099942544"
+               data-ad-slot="6300978111"
+               data-ad-format="auto"
+               data-full-width-responsive="true"></ins>
         </div>
 
         {/* 分类过滤 */}
@@ -99,9 +122,12 @@ export default function Home() {
                   {/* 每5篇文章插入一个广告 */}
                   {(index + 1) % 5 === 0 && (
                     <div className="ad-inline">
-                      <div style={{background: '#f9f9f9', padding: '15px', textAlign: 'center', color: '#999', fontSize: '14px'}}>
-                        [ 广告位 {Math.floor((index + 1) / 5)} ]
-                      </div>
+                      <ins className="adsbygoogle"
+                           style={{display: 'block'}}
+                           data-ad-client="ca-pub-3940256099942544"
+                           data-ad-slot="6300978111"
+                           data-ad-format="auto"
+                           data-full-width-responsive="true"></ins>
                     </div>
                   )}
                 </article>
@@ -151,6 +177,7 @@ export default function Home() {
 
         .ad-banner {
           margin: 30px 0;
+          min-height: 100px;
         }
 
         .category-filter {
@@ -270,6 +297,7 @@ export default function Home() {
 
         .ad-inline {
           margin: 30px 0;
+          min-height: 100px;
         }
 
         .footer {
